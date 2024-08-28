@@ -24,7 +24,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,flask,html,css,vscode,github,bash,figma,git" />
+    <img src="https://skillicons.dev/icons?i=flutter,flask,html,css,vscode,github,bash,figma,git,latex" />
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,nodejs,python,dart,javascript,typescript,php,java,mysql" /><br>
 </div>
 
